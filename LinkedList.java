@@ -1,8 +1,8 @@
 // Time Complexity:
-// 
+// Insertion -> O(n)
 
 // Space Complexity
-//
+// O(1)
 
 // Java program to implement 
 // a Singly Linked List 
